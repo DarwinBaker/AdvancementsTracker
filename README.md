@@ -17,7 +17,12 @@ This tool was designed from the beginning to strictly adhere to the category rul
 
 ## Installation
 
-If you're thinking about taking on the All Advancements category and would like to take advantage of this tool, simply download and extract the zip file from the [Releases](https://github.com/DarwinBaker/AdvancementsTracker/releases) page for your version of Minecraft. It's a standalone executable, so just run the exe inside and you're all set, no installation required! You will likely run into Windows SmartScreen saying "Windows protected your PC" when you first run the program. You can safely ignore it and click "Run Anyway" and it shouldn't ask again. By default the program will look in your `AppData\Roaming\.minecraft\saves` folder, but if you're using a custom launcher or have moved your save directory, custom save paths are supported. This software is provided "as is", without warranty of any kind. DO NOT download/run any version of this software not downloaded directly from this repository to avoid malware. I am not responsible if you run something that looks like this that didn't come from here.
+If you're thinking about taking on the All Advancements category and would like to take advantage of this tool, simply download and extract the zip file from the [Releases](https://github.com/DarwinBaker/AdvancementsTracker/releases) page for your version of Minecraft. 
+It's a standalone executable, so just run the exe inside and you're all set, no installation required!  
+
+By default the program will look in your `AppData\Roaming\.minecraft\saves` folder, but if you're using a custom launcher or have moved your save directory, custom save paths are supported. This software is provided "as is", without warranty of any kind. 
+
+You will likely run into Windows SmartScreen saying "Windows protected your PC" when you first run the program. You can safely ignore it and click "Run Anyway" and it shouldn't ask again. DO NOT download/run any version of this software not downloaded directly from this repository to avoid malware. I am not responsible if you run something that looks like this that didn't come from here.
 
 #### Find Me At:
 - [Twitch](https://www.twitch.tv/ctm_256)
