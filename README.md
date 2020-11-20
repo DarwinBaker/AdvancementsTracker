@@ -22,7 +22,7 @@ It's a standalone executable, so just run the exe inside and you're all set, no 
 
 By default the program will look in your `AppData\Roaming\.minecraft\saves` folder, but if you're using a custom launcher or have moved your save directory, custom save paths are supported. This software is provided "as is", without warranty of any kind. 
 
-You will likely run into Windows SmartScreen saying "Windows protected your PC" when you first run the program. You can safely ignore this and click "Run Anyway" and it shouldn't ask again. DO NOT download/run any version of this software not downloaded directly from this repository to avoid malware. I am not responsible if you run something that looks like this that didn't come from here.
+You will likely run into a Windows SmartScreen pop up stating "Windows protected your PC" when you first run the program. You can safely ignore this and click "Run Anyway" and it shouldn't ask again. DO NOT download/run any version of this software not downloaded directly from this repository to avoid malware. I am not responsible if you run something that looks like this that didn't come from here.
 
 #### Find Me At:
 - [Twitch](https://www.twitch.tv/ctm_256)
