@@ -9,7 +9,7 @@ This tool was originally designed for runner [Elysaku](https://www.twitch.tv/ely
 
 ## How It Works
 
-The tracker refreshes every time Minecraft saves. This is when it autosaves every 5 minutes, but can also be manually triggered by simply pausing and unpausing the game. (Think of Escape like a split key for the tracker). When Minecraft saves it writes all of your completed advancements and partial completion criteria to a JSON file. This program reads that file at configurable intervals. The only privilege given to the tracker is `FileAccess.Read`, so there should be absolutely no possibility of file corruption. Also, `FileShare.ReadWrite` is used while parsing the file so as not to inturrupt Minecraft if it happens to save during a refresh.
+Due to its unintrusive nature, the tracker only refreshes whenever Minecraft saves. This can be when it autosaves every 5 minutes, but a save can also be manually triggered by simply pausing and unpausing the game. (Think of *Escape* like a split key for the tracker). When Minecraft saves it writes all of your completed advancements and partial completion criteria to a JSON file. This program reads that file at configurable intervals. The only privilege given to the tracker is `FileAccess.Read`, so there should be absolutely no possibility of file corruption. Also, `FileShare.ReadWrite` is used while parsing the file so as not to inturrupt Minecraft if it happens to save during a refresh.
 
 ## Speedrun Legality
 
