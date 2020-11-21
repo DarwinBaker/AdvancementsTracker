@@ -13,7 +13,7 @@ Due to its unintrusive nature, the tracker only refreshes whenever Minecraft sav
 
 ## Speedrun Legality
 
-This tool was designed from the beginning to strictly adhere to the category rules and requirements. As stated on the tracker itself, this program is in accordance with the Speedrun.com Minecraft: Java Edition ruleset as of its public release on 11/20/2020. The guidlines state that you are allowed to read from the advancements and statistics files during a run. All this program does is read from the advancements file of the most recently accessed save. No data is written anywhere, and absolutely nothing is read from the game's memory. That being said, if the mods have any questions I am more than happy to answer!
+This tool was designed from the beginning to strictly adhere to the category rules and requirements. As stated on the tracker itself, this program is in accordance with the Speedrun.com Minecraft: Java Edition ruleset as of its public release on 11/20/2020. The guidelines state that you are allowed to read from the advancements and statistics files during a run. All this program does is read from the advancements file of the most recently accessed save. No data is written anywhere, and absolutely nothing is read from the game's memory. That being said, if the mods have any questions I am more than happy to answer!
 
 ## Installation
 
