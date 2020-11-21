@@ -30,4 +30,4 @@ You will likely run into a Windows SmartScreen pop up stating "Windows protected
 - [Reddit](https://www.reddit.com/user/_CTM_)
 - [Speedrun.com](https://www.speedrun.com/user/CTM)
 
-###### [Creating this tool took many hours and many energy drinks. If you find it helpful or enjoy watching someone else who does and you want to show your support, consider Donating! This program is and always will be completely free for everyone's use. :)](https://www.paypal.com/donate?hosted_button_id=EN29468P8CY24)
+###### [Creating this tool took many hours and many energy drinks. If you find it helpful or enjoy watching someone else who does and you want to show your support, consider donating! This program is and always will be completely free for everyone's use. :)](https://www.paypal.com/donate?hosted_button_id=EN29468P8CY24)
