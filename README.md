@@ -1,3 +1,5 @@
+# ! This is Outdated - Check out the latest and greatest [HERE](https://github.com/DarwinBaker/AATool)
+
 # CTM's Advancements Tracker
 
 ![](preview.gif)
